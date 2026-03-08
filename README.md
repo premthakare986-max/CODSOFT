@@ -1,51 +1,13 @@
-# CODSOFT Artificial Intelligence Internship
+## Task Completion
 
-## Task 1: Rule-Based Chatbot
+This project was successfully completed as part of the Artificial Intelligence Internship at CodSoft.
 
-### Description
-This project is a simple rule-based chatbot developed using Python.  
-The chatbot responds to user inputs based on predefined rules using if-else statements and pattern matching techniques.
+Through this task, I learned the fundamentals of building a rule-based chatbot using Python, handling user input, and implementing decision logic using conditional statements.
 
-### Features
-- Responds to greetings (hello, hi, hey)
-- Answers basic questions like name and status
-- Provides help instructions
-- Handles unknown inputs with default responses
-- Continuous conversation until user types 'bye'
+The project was developed and managed using:
 
-### Technologies Used
 - Python
-- Git
-- GitHub
-- VS Code
+- GitHub for version control
+- Visual Studio Code for development
 
-### How to Run the Project
-
-1. Install Python
-2. Clone the repository
-3. Open the project folder
-4. Run the command:
-
-   python chatbot.py
-
-### Sample Output
-
-You: hello  
-Bot: Hello. How can I assist you today?
-
-You: what is your name  
-Bot: I am a rule-based chatbot created for the CODSOFT AI Internship.
-
-You: bye  
-Bot: Goodbye. Have a nice day.
-
-### Learning Outcome
-
-- Understanding rule-based systems
-- Implementing conditional statements
-- Handling user input
-- Basic Natural Language Processing logic
-
----
-
-Developed as part of CODSOFT Artificial Intelligence Internship.
+This task helped strengthen my understanding of basic AI concepts and practical programming skills.
